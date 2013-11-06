@@ -7,6 +7,7 @@ To submit a resource, edit this README markdown file following existing conventi
 
 ###The Basics
 * Learn X in Y - Javascript native functionality: http://learnxinyminutes.com/docs/javascript/
+* Code Academy Javascript Track: http://www.codecademy.com/tracks/javascript/
 
 
 ###Scope & Inheritance
