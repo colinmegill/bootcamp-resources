@@ -17,3 +17,6 @@ To submit a resource, edit this README markdown file following existing conventi
 
 ###Modularizing Code
 * Escape Callback Hell/pyramid of doom by breaking out your callbacks into smaller functions: http://callbackhell.com/
+* 
+###Fun Way to Learn JavaScript - FIGHTING ROBOTS!
+http://fightcodegame.com
