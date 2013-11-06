@@ -17,3 +17,7 @@ To submit a resource, edit this README markdown file following existing conventi
 
 ###Modularizing Code
 * Escape Callback Hell/pyramid of doom by breaking out your callbacks into smaller functions: http://callbackhell.com/
+
+
+###API Resources
+* [Programmable Web](http://www.programmableweb.com/) - a website that tracks over 10,000 APIs available for use.
