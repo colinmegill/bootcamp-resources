@@ -17,3 +17,7 @@ To submit a resource, edit this README markdown file following existing conventi
 
 ###Modularizing Code
 * Escape Callback Hell/pyramid of doom by breaking out your callbacks into smaller functions: http://callbackhell.com/
+
+
+###AJAX
+* good pdf of slides for beginning ajax  http://portiaplante.com/javascript2/lectures/Javascript%20-%20Lecture%2011%20-%20%20Ajax.pdf
