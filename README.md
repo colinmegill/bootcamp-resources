@@ -17,3 +17,7 @@ To submit a resource, edit this README markdown file following existing conventi
 
 ###Modularizing Code
 * Escape Callback Hell/pyramid of doom by breaking out your callbacks into smaller functions: http://callbackhell.com/
+
+
+###Fun Things
+* xkcd: http://www.xkcd.com
