@@ -21,3 +21,12 @@ To submit a resource, edit this README markdown file following existing conventi
 
 ###Fun
 * Grace Hooper on David Letterman: http://youtu.be/1-vcErOPofQ
+
+###HTML5 & CSS3
+*[HTML5 Please : This is a good resource for if you should or should not use an HTML5 or CSS3 element.](http://html5please.com/) It also tells you if there are pollyfills for CSS3 things.
+
+*[CSS3 Please : This is a nice CSS3 resource.](http://css3please.com/)
+
+*[Can I Use : Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.](http://html5please.com/)
+
+*[Placehold It : Nice for creating placeholder images for your website.](http://placehold.it/#)
