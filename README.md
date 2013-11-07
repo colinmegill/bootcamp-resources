@@ -20,4 +20,4 @@ To submit a resource, edit this README markdown file following existing conventi
 * 
 
 ###Fun
-* Grace Hooper on David Letterman: http://youtu.be/1-vcErOPofQ
+* Grace Hopper on David Letterman: http://youtu.be/1-vcErOPofQ
