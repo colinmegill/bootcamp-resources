@@ -14,6 +14,8 @@ To submit a resource, edit this README markdown file following existing conventi
 * Paste in code to see the inheritance pattern visualized: http://www.objectplayground.com/
 
 
-
 ###Modularizing Code
 * Escape Callback Hell/pyramid of doom by breaking out your callbacks into smaller functions: http://callbackhell.com/
+
+###JSON Proxy
+* Because some browsers put restrictions on cross domain AJAX calls you need to use a proxy: http://jsonp.jit.su/
