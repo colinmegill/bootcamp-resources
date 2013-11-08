@@ -14,10 +14,12 @@ To submit a resource, edit this README markdown file following existing conventi
 * Paste in code to see the inheritance pattern visualized: http://www.objectplayground.com/
 
 
-
 ###Modularizing Code
 * Escape Callback Hell/pyramid of doom by breaking out your callbacks into smaller functions: http://callbackhell.com/
 * 
 
+###Backbone
+* http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed
+* http://tech.pro/tutorial/1367/part-2-backbonejs-deconstructed
 ###Fun
 * Grace Hooper on David Letterman: http://youtu.be/1-vcErOPofQ
