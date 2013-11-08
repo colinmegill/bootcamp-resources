@@ -21,3 +21,4 @@ To submit a resource, edit this README markdown file following existing conventi
 
 ###Fun
 * Grace Hooper on David Letterman: http://youtu.be/1-vcErOPofQ
+* Code writing conventions by language as modelled by the Github API: http://sideeffect.kr/popularconvention/#javascript/
